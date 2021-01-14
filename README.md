@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CompanyViewTool::Renderer.copyright 'Austin Mccombs', 'All rights reserved'
+```
 
 ## Development
 
